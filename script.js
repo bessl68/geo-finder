@@ -29,4 +29,4 @@ async function sendData() {
     }
 }
 
-window.onload = senData;
+window.onload = sendData;
